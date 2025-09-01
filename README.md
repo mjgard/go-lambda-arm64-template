@@ -1,6 +1,6 @@
-# gogo
+# Go Lambda 
 
-This is a sample template for gogo - Below is a brief explanation of what we have generated for you:
+This is a sample template for Go Lambda - Below is a brief explanation of what we have generated for you:
 
 ```bash
 .
